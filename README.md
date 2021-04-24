@@ -19,4 +19,4 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlinx&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atlinx&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atlinx&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
