@@ -15,8 +15,10 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 📫 How to reach me: ...
 - Email: atlinuxtm@gmail.com
 
+<br />
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlinx&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
 [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atlinx&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atlinx&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
