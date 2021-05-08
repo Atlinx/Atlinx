@@ -17,7 +17,7 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 
 <br />
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai&count_private=true)
 
 [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atlinx&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
