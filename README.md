@@ -7,7 +7,8 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 - [An open-source visual novel engine for Godot](https://github.com/Fractural/FracturalVisualNovelEngine/)
 
 🌱 I’m currently learning ...
-- Godot
+- Godot Multiplayer Netcode
+- MEAN Stack
 - C++
 
 👯 I’m looking to collaborate on ...
