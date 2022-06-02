@@ -20,7 +20,7 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 
 ## Metrics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai&count_private=true&include_all_commits=true)
 
 ![Metrics](/github-metrics.svg)
 
