@@ -8,9 +8,8 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 
 🌱 I’m currently learning ...
 - Godot Multiplayer Netcode
-- MEAN Stack
-- LoopBack
-- C++
+- Rust
+- Typetta
 
 👯 I’m looking to collaborate on ...
 - Game devopment related open-source projects
