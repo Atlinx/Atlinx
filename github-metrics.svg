@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2462" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2145" class="">
     <defs>
         <style/>
     </defs>
@@ -1377,6 +1377,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#242dfb4</div>
+                                        <div class="message">Change default sorting + fix class year sorting</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">RUCOGS/rucogs.github.io</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#92efade</div>
                                         <div class="message">Add sorts</div>
                                     </div>
@@ -1706,138 +1726,6 @@ Improve StyleBox preview</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1000 commits in
-                                        <span class="repo">Atlinx/godot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#92b337a</div>
-                                        <div class="message">Merge pull request #61371 from KoBeWi/stealth_tree_editor
-
-Optimize SceneTreeEditor filtering</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b60c78a</div>
-                                        <div class="message">Merge pull request #61437 from monkeyman192/hide_invisble_lines
-
-Check visibility of items before drawing their relationship lines</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee89c65</div>
-                                        <div class="message">Add nullptr handling of argument pointer in Tree::scroll_to_item</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eb573da</div>
-                                        <div class="message">Use "odd" style for TabContainers on base BG color
-- Use the "odd" style for TabContainers that are on a background with the same color as the default TabContainer background color to add contrast</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c159c64</div>
-                                        <div class="message">Add rounded corners to the script editor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d28e10</div>
-                                        <div class="message">Merge pull request #61443 from KoBeWi/primitive_fix
-
-Use Spatial shader as default for PrimitiveMesh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#155c6e9</div>
-                                        <div class="message">Merge pull request #61429 from KoBeWi/texturegion
-
-Improve TextureRegionEditor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b9f682</div>
-                                        <div class="message">Merge pull request #61432 from Chaosus/fix_material_free_errors
-
-Fix errors when materials attached to 3d object are not freed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e748fc1</div>
-                                        <div class="message">Improve TextureRegionEditor</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93933e4</div>
-                                        <div class="message">Add a gizmo to visualize AudioStreamPlayer3D's audible radius
-
-The ring's color changes depending on the attenuation model chosen,
-and whether Max Distance is capping the distance the sound can be
-heard at.
-
-Cold colors are used when the volume cap is a "soft" cap (the sound
-can still be heard past the distance, but only faintly).
-
-Warm colors are used when the volume cap is a "hard" cap (the sound
-can't be heard past the distance at all).
-
-White is used for linear fade performed when the attenuation model
-is Disabled and Max Distance is greater than 0.
-
-No ring is drawn when the attenuation model is Disabled and Max Distance
-is equal to 0 (since the sound can be heard from anywhere).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a189911</div>
-                                        <div class="message">Use Spatial shader as default for Mesh</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b71545</div>
-                                        <div class="message">Remove mesh and particles RD dependencies from canvas rendering server</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4aa6e5</div>
-                                        <div class="message">Check visibility of items before drawing their relationship lines</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e88628</div>
-                                        <div class="message">Merge pull request #61434 from nathanfranke/tree-item-edited
-
-tree: do not pass custom click to item edited</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69b30ea</div>
-                                        <div class="message">Merge pull request #61337 from reduz/improve-stylebox-preview
-
-Improve StyleBox preview</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d14164</div>
-                                        <div class="message">tree: always emit item_edited</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4c6900</div>
-                                        <div class="message">Improve StyleBox preview
-
-* Show checkerboard on background.
-* Add margins.
-* Show Ninepatch lines (toggleable).
-* Move the region to its own section so it does not pollute.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f57d95</div>
-                                        <div class="message">Fix errors when materials attached to 3d object are not freed</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08e540a</div>
-                                        <div class="message">Merge pull request #61426 from clayjohn/GLES3-ninepatch</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a65404e</div>
-                                        <div class="message">Add type icon to documentation page header</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1955,7 +1843,7 @@ Improve StyleBox preview</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2022, 05:14:16 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 06:16:51 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
