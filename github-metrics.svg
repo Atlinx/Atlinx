@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1763" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1990" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.token.number{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -101,13 +101,13 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            87 Issues opened
+                            88 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            111 issue comments
+                            112 issue comments
                         </div>
                     </section>
                     <section>
@@ -1359,19 +1359,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Fractural/FracturalGodotCodeGenerator</span>
+                                        Closed
+                                        <span class="issue">#345 WAT 6.0.1 "Run All with Debugger" hangs indefinitely.</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f6a9b8e</div>
-                                        <div class="message">Fix WAT standalone gui</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">AlexDarigan/WAT</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1384,7 +1381,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#344 WAT 6.0.1 release throws error when running tests with `gui.tscn` in standalone mode.</span>
+                                        <span class="issue">#345 WAT 6.0.1 "Run All with Debugger" hangs indefinitely.</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -1399,107 +1396,118 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 162 commits in
-                                        <span class="repo">Atlinx/WAT</span>
+                                        Pushed 810 commits in
+                                        <span class="repo">Atlinx/godot</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0b9a53</div>
-                                        <div class="message">Readd Panel</div>
+                                        <div class="sha">#831888a</div>
+                                        <div class="message">Remove outdated line in call_group() description</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#71bccb8</div>
-                                        <div class="message">Begin Refactor. Comment Out Scripts.
+                                        <div class="sha">#99ac090</div>
+                                        <div class="message">Improve appearance of the material editor preview
 
-There is only a limited number of areas we have to really refactor, so
-we will start by commenting out the core components and then add them
-back one by one.</div>
+- Use lower camera FOV to show more of the sphere/box, while still
+  fully displaying the meshes in question.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#27dc0a0</div>
-                                        <div class="message">Fix Plugin Errors Caused by Bad Metadata</div>
+                                        <div class="sha">#5f0cad8</div>
+                                        <div class="message">Document the `timeout` property in HTTPRequest</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7a9085e</div>
-                                        <div class="message">Remove AutoBuild on Startup</div>
+                                        <div class="sha">#02e1029</div>
+                                        <div class="message">spirv-reflect: Update to latest commit</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7600a3f</div>
-                                        <div class="message">Shut The Editor Up</div>
+                                        <div class="sha">#ba39230</div>
+                                        <div class="message">Bind correct default resource type in GI</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#47c5e6a</div>
-                                        <div class="message">Stable (I hope</div>
+                                        <div class="sha">#498bbd0</div>
+                                        <div class="message">Set default resource names under pure debug in Vulkan RD</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3620c34</div>
-                                        <div class="message">Build Solution On Test Selection
+                                        <div class="sha">#b221eab</div>
+                                        <div class="message">Variant memory pools
 
-This is not the best situation and it is a bit heavy handed but it
-should reduce most errors.</div>
+Memory pools via PagedAllocator for Transform2D, Transform3D, Basis and AABB.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d80eeef</div>
-                                        <div class="message">Test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1d7650</div>
-                                        <div class="message">Add Exceptions For CSharp Scripts Inside addons/WAT
+                                        <div class="sha">#cf1ce84</div>
+                                        <div class="message">Improve antialiased line drawing sharpness and respect of original width
 
-We were self triggering a lot of errors so we've blocked
-any tests from being called in the script.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64b9d1d</div>
-                                        <div class="message">Yield Until Setup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee9f344</div>
-                                        <div class="message">Initialize FileSystem Via Running Empty Sceen</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6b8eb0</div>
-                                        <div class="message">Remove Old Tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c42ff0e</div>
-                                        <div class="message">Build in CSharp On New Tests GUI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39f56fc</div>
-                                        <div class="message">Change How CSharp Tests are Detected
+Antialiased lines with a width of 2 pixels or more now use a smaller
+feather width of 1.25 instead of 2.0. This makes them look sharper
+and better preserves their original shape while still having good
+antialiasing quality.
 
-We keep running into issues with .new() so instead
-we'll just check to see if it includes a [Test attribute (we don't
-include ] because it might be [Test()]</div>
+This also improves the appearance of thin antialiased lines by
+slightly increasing their feather size (from 1.0 to 1.25). It
+makes them appear a tad thicker, but the antialiasing quality is
+much improved by doing this.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d30112e</div>
-                                        <div class="message">Default Testdir set to Project Root</div>
+                                        <div class="sha">#798f9c8</div>
+                                        <div class="message">Advance animation after confirming</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#98b9ddc</div>
-                                        <div class="message">Fix No New In CSharp Script Via Reloading With Keep State</div>
+                                        <div class="sha">#8883050</div>
+                                        <div class="message">Precompute on the CPU as much as possible for the Cubemap filter shader</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#1fe01c1</div>
-                                        <div class="message">Add Validator Class</div>
+                                        <div class="sha">#8c7d499</div>
+                                        <div class="message">Document how to load Images and MP3 files at run-time</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#aeb86b0</div>
-                                        <div class="message">Fix Some FileSystem Errors</div>
+                                        <div class="sha">#9ada594</div>
+                                        <div class="message">Add static methods to create RayQueryParameters</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b30e275</div>
-                                        <div class="message">Merge pull request #265 from Atlinx/master
+                                        <div class="sha">#198f70c</div>
+                                        <div class="message">Use type icons in Theme editor import tab
+- Use + icon for "Add" button
+- Replace "One" with "1" in data type counts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c639490</div>
+                                        <div class="message">Fix typo in `TILE_LAYOUT_STACKED_OFFSET` description</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9dba44</div>
+                                        <div class="message">Deleting only repeating "Scripted Variables" props</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7ac4554</div>
+                                        <div class="message">Improve CollisionObject2D and CollisionObject3D pickable documentation</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2a0a52</div>
+                                        <div class="message">Improve warning message for invalid desktop VRAM compression settings
 
-Update PluginAssetsRegistry to account for edge cases</div>
+- Display the source file path.
+- Display the valid compression algorithms on desktop platforms.
+- Use "desktop platforms" instead of "PC" to avoid ambiguity.
+- Use "may" instead of "will", as desktop platforms can still sometimes
+  display ETC1/ETC2 textures depending on the GPU and drivers.</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f8fce24</div>
-                                        <div class="message">Fix Bug With Check Of CSharpScript</div>
+                                        <div class="sha">#04535bd</div>
+                                        <div class="message">Fix contextual tileset editor and ensure button is always visible when tileset is available</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4070f55</div>
+                                        <div class="message">glTF animation parsing: Changed the 'loop' and 'cycle' animation name keywords to be case-insensitive</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8d1abe2</div>
+                                        <div class="message">Remove impossible condition in RenderingServer::mesh_surface_make_offsets_from_format
+
+sizeof(float) cannot be less than 4, so the condition is impossible.
+
+(Also remove extra blank lines in cases for consistency.)</div>
                                     </div>
                                 </div>
                             </section>
@@ -1511,27 +1519,108 @@ Update PluginAssetsRegistry to account for edge cases</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">Fractural/FracturalGodotCodeGenerator</span>
+                                        Pushed 1000 commits in
+                                        <span class="repo">Atlinx/godot</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">3.x</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5ce3116</div>
-                                        <div class="message">WIP unit testing</div>
+                                        <div class="sha">#f196532</div>
+                                        <div class="message">Focus filter LineEdit after Theme Type dialog popup</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#e0c9430</div>
-                                        <div class="message">WIP unit testing</div>
+                                        <div class="sha">#6d9cbcb</div>
+                                        <div class="message">Merge pull request #59926 from ConteZero/expose_get_selected_text
+
+[3.x] Expose get_selected_text() in RichTextLabel</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#23235e6</div>
-                                        <div class="message">Delete inject ancestor because it violates inversion of control</div>
+                                        <div class="sha">#820728a</div>
+                                        <div class="message">[3.x] Expose get_selected_text in RichTextLabel</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d909fb6</div>
-                                        <div class="message">WIP refactor</div>
+                                        <div class="sha">#cfdb99a</div>
+                                        <div class="message">Merge pull request #57411 from Scony/fix-threaded-navmesh-baking-3.x
+
+Fix navmesh baking</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4bbc87</div>
+                                        <div class="message">Merge pull request #59900 from timothyqiu/remove-theme-type
+
+[3.x] Add an explicit way to remove a theme type</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#781ffb8</div>
+                                        <div class="message">Merge pull request #59898 from timothyqiu/missing-period
+
+[3.x] Add missing period in classref of 3D render layer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f625172</div>
+                                        <div class="message">Add an explicit way to remove a theme type
+
+Co-Authored-by: Yuri Sizov &lt;yuris@humnom.net&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bba6d18</div>
+                                        <div class="message">Add missing period in classref of 3D render layer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20b0818</div>
+                                        <div class="message">Merge pull request #59894 from ConteZero/richtextlabel_deselect_3.x</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#169234e</div>
+                                        <div class="message">Merge pull request #59892 from Sauermann/fix-3x-subviewport-container-event-transform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44a7fd1</div>
+                                        <div class="message">Merge pull request #59836 from ConteZero/fix_editor_log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e71405</div>
+                                        <div class="message">[3.x] Add deselect() to RichTextLabel</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a9f86e</div>
+                                        <div class="message">Fix event transform in ViewportContainer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20e4fa2</div>
+                                        <div class="message">Merge pull request #59838 from keptsecret/3x_fix_filedialog_user_data_access</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f9ae5e</div>
+                                        <div class="message">Merge pull request #59868 from m4gr3d/update_default_display_scale</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ba0508</div>
+                                        <div class="message">Update the editor display scale based on the device's scaled density</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21c3048</div>
+                                        <div class="message">Add missing argument names in bindings</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#887a5cd</div>
+                                        <div class="message">SpaceBullet::recover_from_penetration: skip compound shapes without child shapes
+
+Before, this case would incorrectly get caught as an error, causing an
+early return, in particular skipping other possibly relevant shapes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e03f50a</div>
+                                        <div class="message">Merge pull request #59857 from timothyqiu/editor-missing-check-icons
+
+[3.x] Add missing `CheckBox` &amp; `CheckButton` editor icons</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1183abf</div>
+                                        <div class="message">Merge pull request #59848 from rburing/estimate_agent_radius_inside_tree
+
+[3.x] `NavigationObstacle2D`: estimate agent radius only when configured to do so</div>
                                     </div>
                                 </div>
                             </section>
@@ -1540,16 +1629,19 @@ Update PluginAssetsRegistry to account for edge cases</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#277 What `AttachExternalCancellation(token)` does?</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">Fractural/FracturalGodotCodeGenerator</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by pnarimani in <span class="repo">Cysharp/UniTask</span></div>
-                                    <div class="comment">Oh wait, is it because UniTask.Create itself is a task, therefore the token is supposed to cancel UniTask.Create and not the task inside?</div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f6a9b8e</div>
+                                        <div class="message">Fix WAT standalone gui</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1670,7 +1762,7 @@ Update PluginAssetsRegistry to account for edge cases</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2022, 01:12:57 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 02:17:32 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
