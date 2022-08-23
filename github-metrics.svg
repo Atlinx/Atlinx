@@ -1690,7 +1690,7 @@ sizeof(float) cannot be less than 4, so the condition is impossible.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2022, 16:15:31 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 17:13:28 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
