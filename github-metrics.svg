@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1602" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1872" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.tracklist{align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;display:flex;flex-direction:column;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -1398,6 +1398,154 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1000 commits in
+                                        <span class="repo">Atlinx/godot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/65010_enum-doesnt-show-up</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#245fba2</div>
+                                        <div class="message">Update classref documentation for AnimationPlayer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6059a9b</div>
+                                        <div class="message">Improve easing inspector usability
+
+- Add `positive_only` property hint to disallow using negative presets.
+  These values are clamped in several places in the editor already,
+  so this avoids displaying presets that don't work.
+- Move the Zero preset at the end of the positive list to match
+  the custom property editor. It's also used less often than Linear,
+  Ease In and Ease Out.
+- Rename presets to be consistent between the easing property editor
+  and custom property editor.
+- Remove unused `inout` hint which was redundant since it was already
+  the default.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ecd61a</div>
+                                        <div class="message">Merge pull request #54738 from Calinou/expose-os-restart-on-exit</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5aee81f</div>
+                                        <div class="message">Merge pull request #63763 from bruvzg/lbl_settings_defaults</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#08311f7</div>
+                                        <div class="message">Merge pull request #63781 from YuriSizov/editorresourceconversionpluginactomy2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c9ba5e</div>
+                                        <div class="message">Remove excessive `editor/property_editor.h` includes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1b71317</div>
+                                        <div class="message">Expose the "restart on exit" OS functionality
+
+This can be used to restart a project with specific command line arguments
+applied. This can work in tandem with `OS.get_cmdline_args()` to restart
+with the same command line arguments as used to originally run the project.
+
+Example use cases:
+
+- Restart to apply an user setting change that requires a restart to work.
+- Restart with a Godot command line argument to change the video driver,
+  audio driver, etc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ec6de1</div>
+                                        <div class="message">Merge pull request #63766 from Chaosus/fix_shader_instance_uniform</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81c4471</div>
+                                        <div class="message">Fix passing values to the instance uniforms in the shader</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c55637</div>
+                                        <div class="message">fix for headless collision shape generation
+
+this commit implements just enough of dummy mesh_storage so collision shapes are still generated in the headless mode
+implementation was inspired by rasterizer_dummy.h from Godot3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac80149</div>
+                                        <div class="message">Change LabelSettings default values to match default theme.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#366e2d8</div>
+                                        <div class="message">[TextServer] Add a build warning when building with external FreeType without Brotli support.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d29e956</div>
+                                        <div class="message">Merge pull request #63761 from BastiaanOlij/gles3_scene_singleton_init</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#367507e</div>
+                                        <div class="message">Initialise singleton in RendererSceneGLES3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd238cb</div>
+                                        <div class="message">Merge pull request #63722 from akien-mga/scons-4.4.0-vs-solution
+
+SCons: Fix creating VS solution with SCons 4.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90dae71</div>
+                                        <div class="message">Merge pull request #55007 from norling/master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cab107d</div>
+                                        <div class="message">docs: Caveats of NavigationMesh.create_from_mesh
+
+Adds a note explaining the requirements of the given [Mesh] when converting a [Mesh] to a [NavigationMesh] using `NavigationMesh.create_from_mesh`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#beb8fd5</div>
+                                        <div class="message">Merge pull request #55387 from RPicster/particles-turbulence</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#121d6fd</div>
+                                        <div class="message">Merge pull request #63754 from BastiaanOlij/storage_struct_private
+
+Changed storage structs to private</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de53e91</div>
+                                        <div class="message">Merge pull request #55276 from Calinou/volumetric-fog-tweak-default-gi-inject
+
+Tweak default fog settings for better appearance</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Atlinx/godot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/65010_enum-doesnt-show-up</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f16e115</div>
+                                        <div class="message">Merge branch 'fix/65010_enum-doesnt-show-up' of https://github.com/Atlinx/godot into fix/65010_enum-doesnt-show-up</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Fractural/GodotFixedVolatilePhysics</span>
                                     </div>
@@ -1445,46 +1593,6 @@
                                         <div class="sha">#7546c7f</div>
                                         <div class="message">Add GetThemeFromParents</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#65064 GDScript 2.0 PackedStringArray.reverse() returning wrong type without explicit casting</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by thebardsrc in <span class="repo">godotengine/godot</span></div>
-                                    <div class="comment">
-                                        <i>Reproduction included. The actual project I'm working with I'm reversing file paths for some lookup indexing, so this reproduction will just build an array of all of res:// to then do the reversing. So itll also need some other folders and files in it too so it can build multiple directory levels.
-reproduction.zip
-Crash will happen on line 24, as the array will either randomly change to an int or change to a bool from the reverse on 22</i>
-                                        Thanks for uploading a project! I ran it on version 18159a6574e40c36c1aed0d1cae1dc8a32879efa but I couldn't get any errors. Do you get this error with the latest version of Godot 4.0? I noticed your report is from an older version. If you're still getting an error then this might be a platform dependent issue (though that seems really weird, because I'm on Windows 11, which is still Windows).
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#65057 Cyclic PackedScene exports crashes game</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by bitbrain in <span class="repo">godotengine/godot</span></div>
-                                    <div class="comment">I downloaded and ran the project and I can't seem to reproduce the error. I'm on the latest version of Godot (18159a6574e40c36c1aed0d1cae1dc8a32879efa) on Windows 11.
-Maybe the error is there because you haven't open the project once in the editor first? For my Godot CLI setups I have to open the project once in the editor to import all the assets first, and then I'm able to run my test runner scenes.</div>
                                 </div>
                             </section>
                         </div>
@@ -1605,7 +1713,7 @@ Maybe the error is there because you haven't open the project once in the editor
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2022, 17:14:17 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 18:15:48 (timezone America/New_York) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
