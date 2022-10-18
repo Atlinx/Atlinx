@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2113 Commits
+                            2159 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="341.3592745474818" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="341.3592745474818" y="0" width="24.403591282550074" height="8" fill="#aace60"/>
-                    <rect mask="url(#languages-bar)" x="365.76286583003184" y="0" width="20.814094555020468" height="8" fill="#222c37"/>
-                    <rect mask="url(#languages-bar)" x="386.5769603850523" y="0" width="18.939547600408037" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="405.51650798546035" y="0" width="16.10847850554989" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="421.62498649101025" y="0" width="15.562695550863653" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="437.1876820418739" y="0" width="12.838782398511244" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="450.02646444038515" y="0" width="9.973535559614843" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="311.90285177890723" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="311.90285177890723" y="0" width="48.80701917061601" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="360.70987094952324" y="0" width="22.297767432170676" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="383.00763838169394" y="0" width="19.018013960548476" height="8" fill="#222c37"/>
+                    <rect mask="url(#languages-bar)" x="402.0256523422424" y="0" width="17.305224578416848" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="419.33087692065925" y="0" width="14.718452839345314" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.0493297600046" y="0" width="14.219766344757991" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="448.2690961047626" y="0" width="11.730903895237482" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -247,6 +247,12 @@
                             <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -283,12 +289,6 @@
                             <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Java
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C
                     </div>
                 </div>
             </section>
@@ -1399,6 +1399,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">Atlinx/RU-CS314</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1cbbb17</div>
+                                        <div class="message">WIP assignment2, add assignment instructions to all</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">Atlinx/RU-CS214</span>
                                     </div>
                                 </div>
@@ -1467,26 +1487,6 @@
                                     <div class="commit">
                                         <div class="sha">#0ab5401</div>
                                         <div class="message">WIP autograder, convert all line endings back to LF</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Atlinx/RU-CS214</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e7ffac4</div>
-                                        <div class="message">Add description to util classes</div>
                                     </div>
                                 </div>
                             </section>
@@ -1608,7 +1608,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2022, 17:15:42 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Oct 2022, 18:18:34 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
