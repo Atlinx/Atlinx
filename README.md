@@ -5,11 +5,11 @@ I'm a student game developer who runs [Fractural Studios](https://github.com/Fra
 🔭 I’m currently working on ...
 - A new game for Fractural Studios
 - [An open-source visual novel engine for Godot](https://github.com/Fractural/FracturalVisualNovelEngine/)
+- Improving my art
 
 🌱 I’m currently learning ...
 - Godot Multiplayer Netcode
-- Rust
-- Typetta
+- Nakama
 
 👯 I’m looking to collaborate on ...
 - Game devopment related open-source projects
