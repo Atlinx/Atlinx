@@ -6,7 +6,7 @@ I'm a comp-sci student interested in software engineering. I'm also a hobbyist g
 - A new game for Fractural Studios
 - Improving my art
 - [An open-source visual novel engine for Godot](https://github.com/Fractural/FracturalVisualNovelEngine/)
-- [A time tracking web-app with Rust and Vue](https://github.com/Atlinx/ToaskTask)
+- [A time tracking web-app with Rust and Vue](https://github.com/Atlinx/ToastTask)
 
 🌱 I’m currently learning ...
 - Rust
