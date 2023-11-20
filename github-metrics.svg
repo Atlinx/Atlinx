@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3785 Commits
+                            3787 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.62484755575787" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="188.62484755575787" y="0" width="136.6035958687797" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="325.2284434245376" y="0" width="52.00505851514225" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="377.23350193967985" y="0" width="30.43841265608222" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="407.6719145957621" y="0" width="17.15809964178485" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="424.83001423754695" y="0" width="12.426466782012382" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.2564810195593" y="0" width="12.299102406483815" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="449.5555834260431" y="0" width="10.444416573956882" height="8" fill="#aace60"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.62351219954482" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="188.62351219954482" y="0" width="136.60262879332367" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="325.22614099286847" y="0" width="52.00469034902365" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="377.2308313418921" y="0" width="30.438197169501407" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="407.6690285113935" y="0" width="17.15797817223692" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="424.82700668363043" y="0" width="12.42963534705634" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.2566420306868" y="0" width="12.29901533586175" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="449.55565736654853" y="0" width="10.444342633451459" height="8" fill="#aace60"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1376,6 +1376,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#b84f8a6</div>
+                                        <div class="message">Finish server.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Atlinx/RU-CS352</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1d9aa80</div>
+                                        <div class="message">Fix HTTP Server with stripping</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Atlinx/RU-CS352</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#83cf9df</div>
                                         <div class="message">Remove more bugged defaults</div>
                                     </div>
@@ -1418,46 +1458,6 @@
                                     <div class="commit">
                                         <div class="sha">#4af2820</div>
                                         <div class="message">Try add more relevant test cases</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Atlinx/RU-CS352</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9354704</div>
-                                        <div class="message">WIP server</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Atlinx/RU-CS352</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#45396a0</div>
-                                        <div class="message">Fix tests on windows</div>
                                     </div>
                                 </div>
                             </section>
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 00:12:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 01:16:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
