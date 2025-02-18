@@ -7,7 +7,7 @@ I'm a comp-sci student interested in software engineering. I'm also a hobbyist g
 - [Building a Jackbox-like multiplayer game in Rust and Godot](https://github.com/rucogs/jam-box)
 
 🌱 I’m currently learning ...
-- Unreal
+- Unreal Engine Modding
 - Deep-learning
 - Pytorch
 
