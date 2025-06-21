@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1886" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1569" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1292,6 +1292,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JoeDoerr/ImitationLearning</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3685906</div>
+                                        <div class="message">Finished robotiq gripper code, untested</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1514,179 +1534,6 @@ Former-commit-id: 6220052a4869888ce3b5db40da15114a154d6237</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 106 commits in
-                                        <span class="repo">JoeDoerr/ImitationLearning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/_refactor-arch</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0a95717</div>
-                                        <div class="message">Update requirements, readme + gitignore
-
-
-Former-commit-id: 4eef08023c7de8cb5caf44bdbec253afe4cf9a63
-Former-commit-id: f9f6b8b3a7d83f9c841ee71bb1f51c16dbe747d0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8780928</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/JoeDoerr/ImitationLearning
-
-
-Former-commit-id: 97b8e99ffa01848c48aba8c030e294914e06882e
-Former-commit-id: 7f6147afc4207e0f2ab9ce83ae2688629f49fd41</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0f8891</div>
-                                        <div class="message">Update requirements.txt + srv imports
-
-
-Former-commit-id: 3d9587018d3b9539fdd41baa3edf98bef94fd26e
-Former-commit-id: e7033815ffa86b73efbe67cb24b1939235b0924b</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecb8937</div>
-                                        <div class="message">msg
-
-
-Former-commit-id: 4b109a2b1b564c41b2ae2638a706b566de509ad1
-Former-commit-id: f2d93d7acc64c89e0da6a77fe74d27d3ee2946e1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#95781f1</div>
-                                        <div class="message">added utils
-
-
-Former-commit-id: 81941e774a0ce40036ee9513f594bb358e8d95f9
-Former-commit-id: 656941e77fd2fd289e8a024901c567c3ab78d6f4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#450a377</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/JoeDoerr/ImitationLearning
-
-
-Former-commit-id: c6bbfde378536d8bc6aa5408f6d12e5d5d220a2d
-Former-commit-id: 433abd1d5bb31fc99c8f36856e371fb1bd5c901d</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3237f99</div>
-                                        <div class="message">added new srvs
-
-
-Former-commit-id: 37b59553b4162cc2b2366af204822970ffa66b7d
-Former-commit-id: 684acd14608d2b5e492797ffcfc19c79543bfc10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d5b3ce</div>
-                                        <div class="message">Update readme
-
-
-Former-commit-id: 7d7253d601dafa064c86727ed1a7103a40ea72a2
-Former-commit-id: b9e15e8c26a2a8502f44a75947ad31037df80068</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#51a900c</div>
-                                        <div class="message">Update readme
-
-
-Former-commit-id: 783cb829f6b22dbff1108a6b12d21efa918eca40
-Former-commit-id: 4a0b15ffec51b6797291ae89221ae8e9fe9196b5</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f3f7e3</div>
-                                        <div class="message">Update build instructions
-
-
-Former-commit-id: 0a516b6e9a86eb999698062b579661bb694e3f71
-Former-commit-id: d33a1bd577d1b91d3bd917c58a60e7baf3c25c60</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f9adc3</div>
-                                        <div class="message">Update README.md
-
-Former-commit-id: a24ec4a52edcdab223551614dcc523f7d9dfde4d
-Former-commit-id: 2bbd2077cf1bb014ef202d599f67b645b8bc6277</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2443165</div>
-                                        <div class="message">Update README.md
-
-Former-commit-id: b3ecbfe9cd3fd8052845c527b985ca18f64079c8
-Former-commit-id: 5babeb1953d255c8ecd79d8a570f33c24eb9515c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05d7cfa</div>
-                                        <div class="message">Add catkin installation to README.md
-
-Former-commit-id: 5ced489651ff7d4319ba3fa1914c8cbddabc870c
-Former-commit-id: e41aec211477d1d7b988ad69fa6277f379938411</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d99565c</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/JoeDoerr/ImitationLearning
-
-
-Former-commit-id: c704261b78dbd54a0b01da69ff2e94c11fb17552
-Former-commit-id: 6ca0e4f2f676f1fb11cfb060cc2683e2edb933ac</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f4f2ebb</div>
-                                        <div class="message">add to readme
-
-
-Former-commit-id: cd5dd6885a5aaefa07eca95c585608406facda29
-Former-commit-id: f50372ca38b8a2b33e6c10b26f1f2e0a7d17771c</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#afbfb2d</div>
-                                        <div class="message">Added requirements.txt
-
-
-Former-commit-id: 693036015eac84560b27a88708690e7308d9361a
-Former-commit-id: 84c6e3110ba9e366fbca3539744f1f751d11f7fd</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4ae0bc1</div>
-                                        <div class="message">very bad teleop code but I got the robot to move! Just need to figure out the jacobian steering properly
-
-
-Former-commit-id: c10290f2afa6ad118b098dc4d0bc1d737fec4a1f
-Former-commit-id: 7f9ced3dced5f50ff4f9bc38806d49a383fa75ab</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0980bd8</div>
-                                        <div class="message">fix readme
-
-
-Former-commit-id: c11da80e02a4208fffc058cc59cb45de8b8f77e2
-Former-commit-id: 01cae424ddf1d7e852f7b257e86d16efffad10aa</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e3cb2fe</div>
-                                        <div class="message">More to readme, fixing organization
-
-
-Former-commit-id: 26efcc31f701d4990600a3a6a513cd5362f55356
-Former-commit-id: 7fad4ec90cb9cfb3014f059cca650bb235c6ecff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1aabcbb</div>
-                                        <div class="message">initial
-
-
-Former-commit-id: 007c4cf0483ed664018f9646ac764c06710c4bf2
-Former-commit-id: 6220052a4869888ce3b5db40da15114a154d6237</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1736,7 +1583,7 @@ Former-commit-id: 6220052a4869888ce3b5db40da15114a154d6237</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jun 2025, 12:19:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jun 2025, 13:14:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
