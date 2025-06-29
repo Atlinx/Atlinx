@@ -1307,8 +1307,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d35280a</div>
-                                        <div class="message">Add separate save thread for data collector</div>
+                                        <div class="sha">#3dbb165</div>
+                                        <div class="message">Make trajectory inspector multithreaded</div>
                                     </div>
                                 </div>
                             </section>
@@ -1327,8 +1327,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#757fa3e</div>
-                                        <div class="message">Simplify env, fix data not saved as rgb</div>
+                                        <div class="sha">#26c742f</div>
+                                        <div class="message">Make trajectory inspector multithreaded</div>
                                     </div>
                                 </div>
                             </section>
@@ -1347,8 +1347,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8ae7306</div>
-                                        <div class="message">Improve documentation</div>
+                                        <div class="sha">#43d1526</div>
+                                        <div class="message">Normalize Robotiq gripper interface joint states</div>
                                     </div>
                                 </div>
                             </section>
@@ -1367,8 +1367,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e17d5c9</div>
-                                        <div class="message">Improve documentation</div>
+                                        <div class="sha">#47dafd6</div>
+                                        <div class="message">Normalize Robotiq gripper interface joint states</div>
                                     </div>
                                 </div>
                             </section>
@@ -1387,8 +1387,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#83f1005</div>
-                                        <div class="message">Make camera sampling faster</div>
+                                        <div class="sha">#266f3ce</div>
+                                        <div class="message">Fix data collector unecessary locks</div>
                                     </div>
                                 </div>
                             </section>
@@ -1442,7 +1442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2025, 00:33:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jun 2025, 01:20:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
