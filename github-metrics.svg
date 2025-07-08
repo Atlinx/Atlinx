@@ -1343,8 +1343,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#58888b9</div>
-                                        <div class="message">Fix motoman_sim</div>
+                                        <div class="sha">#4473282</div>
+                                        <div class="message">Use ctrl instead of qpos for keyboard_ik_teleop for smoother movement</div>
                                     </div>
                                 </div>
                             </section>
@@ -1363,8 +1363,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d270790</div>
-                                        <div class="message">Rename ros.data to ros.data_collection</div>
+                                        <div class="sha">#e08c50d</div>
+                                        <div class="message">Use ctrl instead of qpos for keyboard_ik_teleop for smoother movement</div>
                                     </div>
                                 </div>
                             </section>
@@ -1383,8 +1383,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#31bc8c8</div>
-                                        <div class="message">Refactor data collection</div>
+                                        <div class="sha">#30f3269</div>
+                                        <div class="message">Fix motoman_sim + motoman_interface, make keyboard_ik_teleop start IK at cursor pos</div>
                                     </div>
                                 </div>
                             </section>
@@ -1403,8 +1403,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f4f40fd</div>
-                                        <div class="message">Add WIP data collector format</div>
+                                        <div class="sha">#a2a62b9</div>
+                                        <div class="message">Fix motoman_sim + motoman_interface, make keyboard_ik_teleop start IK at cursor pos</div>
                                     </div>
                                 </div>
                             </section>
@@ -1423,8 +1423,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a5b32e</div>
-                                        <div class="message">Add run_ros_test.sh</div>
+                                        <div class="sha">#5004bec</div>
+                                        <div class="message">Fix motoman_sim + motoman_interface, make keyboard_ik_teleop start IK at cursor pos</div>
                                     </div>
                                 </div>
                             </section>
@@ -1478,7 +1478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2025, 06:19:06 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2025, 07:15:50 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
