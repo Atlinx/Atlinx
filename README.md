@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm a comp-sci student interested in software engineering. I'm also a hobbyist game developer who runs [Fractural Studios](https://github.com/Fractural). I love drawing, composing music, and coding!
+I'm a comp-sci student interested in machine learning and robotics. I'm also a hobbyist game developer who runs [Fractural Studios](https://github.com/Fractural). I love drawing, composing music, and coding!
 
 🔭 I’m currently working on ...
-- [Training an AI to play a video game](https://github.com/Atlinx/GGStriver)
-- [Building a Jackbox-like multiplayer game in Rust and Godot](https://github.com/rucogs/jam-box)
+- Training an AI to play a video game
+- [Learning more about ML algorithms](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 
 🌱 I’m currently learning ...
 - Unreal Engine Modding
