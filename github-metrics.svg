@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1358" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1475" class="">
     <defs>
         <style/>
     </defs>
@@ -1325,6 +1325,98 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">noahwu8888/gmtk-2025</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">atlinx</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4833075</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/main' into atlinx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9822815</div>
+                                        <div class="message">background manager done</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#128f7a3</div>
+                                        <div class="message">Merge branch 'main' into noah-branch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#226b336</div>
+                                        <div class="message">Background Emitters switching
+
+Nuclear Option</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#837bee3</div>
+                                        <div class="message">Merge pull request #5 from noahwu8888/kranch
+
+added loopbar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4c3864</div>
+                                        <div class="message">added loopbar</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bcb6e9d</div>
+                                        <div class="message">Merge branch 'noah-branch'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a48ef34</div>
+                                        <div class="message">Bg music meme</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">noahwu8888/gmtk-2025</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">atlinx</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#18be1fb</div>
+                                        <div class="message">Add vector art + animations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">noahwu8888/gmtk-2025</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">atlinx</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a5e5356</div>
+                                        <div class="message">Add vector art + animations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">noahwu8888/gmtk-2025</span>
                                     </div>
@@ -1366,66 +1458,6 @@
                                     <div class="commit">
                                         <div class="sha">#68d4572</div>
                                         <div class="message">WIP</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JoeDoerr/ImitationLearning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2d60c75</div>
-                                        <div class="message">Working imitation learning + basic motoman gello</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JoeDoerr/ImitationLearning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#afe2fe5</div>
-                                        <div class="message">Refactored ros configs</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JoeDoerr/ImitationLearning</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9fe4b39</div>
-                                        <div class="message">Fix sim_VLA + rename to sim_vla_policy.yaml</div>
                                     </div>
                                 </div>
                             </section>
@@ -1479,7 +1511,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2025, 00:39:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jul 2025, 01:24:31 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
