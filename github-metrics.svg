@@ -1307,15 +1307,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">DanManN/pracsys_vbnpm</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#162fafb</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/MiaoDragon/pracsys_vbnpm</div>
+                                        <div class="sha">#1b0a290</div>
+                                        <div class="message">Revert to more complicated tmux</div>
                                     </div>
                                 </div>
                             </section>
@@ -1334,8 +1334,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c10fb1b</div>
-                                        <div class="message">Log chosen_id to out_file</div>
+                                        <div class="sha">#e9bc78f</div>
+                                        <div class="message">Revert tmux</div>
                                     </div>
                                 </div>
                             </section>
@@ -1354,8 +1354,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1995894</div>
-                                        <div class="message">Fix scene not getting passing into experiment</div>
+                                        <div class="sha">#913193d</div>
+                                        <div class="message">Use gemini suggestion</div>
                                     </div>
                                 </div>
                             </section>
@@ -1374,8 +1374,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0fd2097</div>
-                                        <div class="message">Fix scene not getting passing into experiment</div>
+                                        <div class="sha">#7761055</div>
+                                        <div class="message">Fix run experiment</div>
                                     </div>
                                 </div>
                             </section>
@@ -1394,8 +1394,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ea7eb27</div>
-                                        <div class="message">Add debug_show_experiment.sh</div>
+                                        <div class="sha">#d3006be</div>
+                                        <div class="message">Change tmux</div>
                                     </div>
                                 </div>
                             </section>
@@ -1449,7 +1449,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 01:16:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 02:25:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
