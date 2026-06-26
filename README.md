@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a grad student interested in machine learning and robotics. I'm also a hobbyist game developer who runs [Fractural Studios](https://github.com/Fractural). I love drawing, composing music, and coding!
+I'm an MS ROBO student at the University of Pennsylvania who is interested in machine learning and robotics. I'm also a hobbyist game developer who runs [Fractural Studios](https://github.com/Fractural). I love drawing, composing music, and coding!
 
 🔭 I’m currently working on ...
 - Training an AI to play a video game
