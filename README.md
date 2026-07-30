@@ -11,9 +11,6 @@ I'm an MS ROBO student at the University of Pennsylvania who is interested in ma
 - Deep-learning
 - Pytorch
 
-📫 How to reach me:
-- Email: atlinuxtm@gmail.com
-
 ## Metrics
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Atlinx&show_icons=true&theme=monokai&count_private=true&include_all_commits=true)
